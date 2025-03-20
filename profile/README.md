@@ -1,5 +1,5 @@
 <p align="center">
-  <img title="London.js Monthly Meetup | #London.js" src="https://github.com/londonjs/.github/blob/main/.github/profile/images/londonjsbanner.jpg" alt="London.js Banner"/>
+  <img title="London.js Monthly Meetup | #London.js" src="https://raw.githubusercontent.com/londonjs/.github/refs/heads/main/images/londonjsbanner.jpg" alt="London.js Banner"/>
 </p>
 
 
