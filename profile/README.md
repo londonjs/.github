@@ -15,7 +15,7 @@ London.js is more than just a meetup—we're a collaborative space where JavaScr
 
 This organization hosts various projects related to our community:
 
-- Our [website](https://londonjs.com) built with Astro (contributions welcome!)
+- Our [website](https://london.js.org) built with Astro (contributions welcome!)
 - Speaker presentation materials and demo projects
 - Community-contributed JavaScript projects
 - Resources and code samples from past meetups
