@@ -31,7 +31,7 @@ We welcome developers of all backgrounds and experience levels to:
 
 ## Get Involved
 
-- 🌐 Visit our [website](https://londonjs.com) for upcoming events
+- 🌐 Visit our [website](https://london.js.org) for upcoming events
 - 🐦 Follow us on [LinkedIn](https://www.linkedin.com/company/london-js/)
 - 📍  Join our [meetup.com](https://www.meetup.com/london-js) page if you haven't already
 - 💬 Join our community discussions
